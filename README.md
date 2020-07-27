@@ -21,11 +21,15 @@
 -联合国17个发展目标是全世界  
 
 ### 1.2相关内容链接：
--一、[联合国17个发展目标](https://sustainabledevelopment.un.org/partnerships/goodpractices)
--二、[习近平新时代中国特色社会主义思想三十讲](http://www.qstheory.cn/xjpsxkj/index.html)
--三、[习近平新时代中国特色社会主义思想学习纲要（19个）](http://theory.people.com.cn/GB/68294/428935/)
--四、[生态文明建设](http://theory.people.com.cn/GB/68294/417224/index.html)
--五、[习近平广东等其他重要讲话]()
+- 一、[联合国17个发展目标](https://sustainabledevelopment.un.org/partnerships/goodpractices)
+
+- 二、[习近平新时代中国特色社会主义思想三十讲](http://www.qstheory.cn/xjpsxkj/index.html)
+
+- 三、[习近平新时代中国特色社会主义思想学习纲要（19个）](http://theory.people.com.cn/GB/68294/428935/)
+
+- 四、[生态文明建设](http://theory.people.com.cn/GB/68294/417224/index.html)
+
+- 五、[习近平广东等其他重要讲话]()
 
 ### 1.3中国故事：
 
